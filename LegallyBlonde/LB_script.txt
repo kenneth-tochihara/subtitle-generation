@@ -1,4 +1,4 @@
-﻿BLANK
+﻿[BLANK]
 MARGOT: “DEAR ELLE: HE’S A LUCKY GUY--
 I’M, LIKE, GONNA CRY--
 I GOT TEARS COMING OUT OF MY NOSE!
@@ -39,7 +39,7 @@ OMIGOD YOU --
 SHH! I’M SERIOUS!
 
 
-BLANK
+[BLANK]
 LEILANI: ELLE AND WARNER WERE MEANT TO BE.
 GIRL: NOT ONCE EVER HAS HE HIT ON ME.
 LEILANI/KATE: Shut’ up!         Shut up!
@@ -77,7 +77,7 @@ DELTA NUS: NO ONE SHOULD BE LEFT ALONE TO DRESS
 AND TO ACCESSORIZE.
 LATE GIRL: OMIGOD YOU GUYS!
 DELTA NUS: OMIGOD! OMIGOD! OMIGOD! OMIGOD! OMIGOOOD!
-BLANK
+[BLANK]
 ELLE: It’s almost there, but…
 THIS DRESS NEEDS TO SEAL THE DEAL—
 MAKE A GROWN MAN KNEEL;
@@ -132,7 +132,7 @@ ELLE: OHMIGOD...!
 ALL: OMIGOOOOOD…YOU GUYS!...OMIGOD!!!
 
 
-BLANK
+[BLANK]
 ELLE: Oh, Warner. Tonight's just perfect.
 WARNER: No, you're perfect.
 ELLE: No, you are.
@@ -146,7 +146,7 @@ WARNER: Elle, I want you to know how happy you’ve made me. Every guy dreams ab
 like you.
 
 
-BLANK
+[BLANK]
 WARNER: WE BOTH KNOW WHY WE’RE HERE;
 I SEE IT IN YOUR EYES.
 I GUESS IT CALMS MY FEAR
@@ -211,7 +211,7 @@ TIME TO GET SERIOUS…
 WARNER: Check, please.
 
 
-BLANK 
+[BLANK] 
 DELTA NUS: DAUGHTER OF DELTA NU,
 SWEETHEART IT’S BEEN TWELVE DAYS!
 PLEASE LET US HELP YOU THROUGH.
@@ -237,7 +237,7 @@ ELLE: Wait a sec! That’s the kind of girl Warner wants! Someone serious, someo
 wears black even when nobody’s dead. Girls, I have a completely brilliant plan.
 
 
-BLANK
+[BLANK]
 ELLE: WHAT YOU WANT, WARNER,
 WHAT YOU WANT IS ME.
 BUT YOU NEED TO SEE
@@ -352,7 +352,7 @@ MARGOT: This year’s theme? Jamaican Me Crazy!
 CHORUS: HO!
 
 
-BLANK
+[BLANK]
 GRANDMASTER CHAD: WHAT U WANT, YOU WANNA BE OUT BECAUSE THE SUN SHE WARM?
 WHAT U WANT, YOU WANNA BE STUDY STUCK INSIDE YA DORM?
 WHAT U WANT, YOU WANNA BE PARTY WITH US ALL NIGHT LONG?
@@ -377,7 +377,7 @@ GRANDMASTER CHAD: WHAT U WANT, YOU WANNA BE CHASIN’ HIM AND HE DON’ CARE?
 ELLE: AND THAT’S HOW I’LL SURVIVE                                                          
 GRANDMASTER CHAD: WHAT U WANT, YOU WANNA IGNORE THE PITY IN THEIR LOOKS?       
 ELLE: HERE YOU GO.  I SAID NO.
- BLANK
+ [BLANK]
 GRANDMASTER CHAD: WHAT U WANT, YOU WANNA SAY “SORRY, GOTTA HIT ME BOOKS…” 
 ELLE: GO AWAY!
 GRANDMASTER CHAD: WHAT U WANT, YOU WANNA BE SITTIN’ LIKE A LONELY CHILD? 
@@ -390,7 +390,7 @@ KATE: ONE SEVENTY FIVE!
 GIRLS & BOYS: ONE SEVENTY FIVE!
 ELLE:  ONE SEVENTY FIVE? ONE SEVENTY FIVE!
 ALL: ONE SEVENTY FIVE!
-BLANK
+[BLANK]
 WINTHROP: So gentlemen, Harvard Law grants acceptance to Adam Cohen and Sundeep Padamadan.
 LOWELL: Outstanding.
 WINTHROP: And now “Ms. ELLE Woods.” …who was kind enough to send in…a headshot.
@@ -471,7 +471,7 @@ WHAT YOU WANT!
 WHAT YOU WANT!
 
 
-BLANK
+[BLANK]
 EMMET: Hello, I’m EMMET:  Forrest. Class of aught five. Represent. Welcome to the hallowed halls of Harvard
 Law. I know firsthand how hard you’ve all worked to be here today, so let’s go around and share a bit
 about yourselves.
@@ -523,7 +523,7 @@ ELLE: Oh, Bruiser’s not a dog. Bruiser’s family. I’ll just drop him off at
 anyway: Bruiser loves Days of Our Lives. I’ll see you later then.
 
 
-BLANK( Note to Abby—this should all go on one slide)
+[BLANK]( Note to Abby—this should all go on one slide)
 AARON/PADAMADAN/ENID/ MALE STUDENTS/FEMALE STUDENTS:
 I won a Fulbright                           I did the Peace Corps overseas Harvard’s the perfect      Harvard’s the perfect
 and a Rhodes.       In my country           Inoculating refugees              Place for me.           Place for me.
@@ -561,7 +561,7 @@ EMMET: Who is she?
 WARNER: My ex-girlfriend.
 
 
-BLANK 
+[BLANK] 
 VIVIENNE: All that pink you’re wearing. Is that even legal?
 ELLE: Pink’s my signature color.
 VIVIENNE: So I gathered.
@@ -572,7 +572,7 @@ really need to know is --
 CALLAHAN: —you have the right to remain silent. Anything you say will be used against you.
 
 
-BLANK
+[BLANK]
 CALLAHAN: NOW WHEN YOU CHOOSE A LAW CAREER,
 THE MOMENT YOU EMBARK;
 THERE IS THAT JOKE YOU’RE BOUND TO HEAR:
@@ -675,7 +675,7 @@ YOUR ONLY LAW!                                                                 B
 BLOOD IN THE WATER
 
 
-BLANK 
+[BLANK] 
 EMMET: Hey, Woods-comma-Elle! Listen, I was kicked out of class once first year, too. It’s awful, but trust me:
 your law career is NOT over.
 ELLE: Law career? Not the problem . Listen, I need to get back into class with Warner. Can you help me?
@@ -699,7 +699,7 @@ ELLE: I’m sorry. I just hallucinated. What did you say?
 VIVIENNE: He said I’m his girlfriend.
 
 
-BLANK
+[BLANK]
 ELLE: GIRLFRIEND?!?!?!?!
 GREEK CHORUS: AAAAHHHH!
 ELLE: I am hallucinating! Margot, Serena, Pilar. Girls, what’s going on?
@@ -709,7 +709,7 @@ MARGOT: Elle, we’re here to help.
 SERENA: But we’re not actually here here. We’re just in your head.
 
 
-BLANK
+[BLANK]
 PILAR: GIRL, WE NEED TO HAVE A CHAT.
 SERENA: YOU CAN NOT LOSE HIM TO THAT.
 MARGOT: BOTH HER HAIR AND SHOES ARE FLAT!
@@ -724,7 +724,7 @@ SERENA/MARGOT/PILAR: ALL IS FAIR IN
 GREEK CHORUS:  LOVE AND WAR! 
 
 
-BLANK
+[BLANK]
 PILAR: INTRODUCE HER TO THE FLOOR!
 SERENA/MARGOT/PILAR: ALL IS FAIR IN
 GREEK CHORUS: LOVE AND WAR!
@@ -793,7 +793,7 @@ PILAR: BE HER SHADOW!
 ELLE: …BE HER TWIN.
 
 
-BLANK  
+[BLANK]  
 GREEK CHORUS/ELLE:
 …OH, NO!                                                                  OH, YES.
 NO YOU CAN’T!                                                        YES I CAN!
@@ -807,7 +807,7 @@ ARE YOU SURE?                                                         ALL IS FAI
 ARE YOU SURE?!…
 
 
-BLANK
+[BLANK]
 ELLE: MAKE ME A BRUNETTE!
 GREEK CHORUS: LOVE AND WAR!
 PAULETTE: Hey there! Welcome to the Hair Affair. You’re with Paulette so you’re in good hands. I’m sorta like
@@ -823,7 +823,7 @@ PAULETTE: So what’s she got that you don’t got? Three tits?
 ELLE: She’s “serious.”
 
 
-BLANK 
+[BLANK] 
 PAULETTE: Seriously, she have three tits?
 ELLE: No, she’s a constipated polo shirt with a mousy brown bob. Apparently that’s what Warner wants. So,
 you have to make me a brunette.
@@ -874,7 +874,7 @@ ELLE: Beyond adorable. And no woman should be denied her dog.
 PAULETTE: Tell me something I don’t know.
 
 
-BLANK 
+[BLANK] 
 VIVIENNE: So I’ll bring the lobster potstickers.
 WHITNEY: Perfect. I’ve got a case of chardonnay. Now that’s a party.
 ELLE: There’s a party?  Oh. Hello, Vivienne.
@@ -900,7 +900,7 @@ YOU GO OUT THERE AND YOU GET SOME IRELAND!
 AND MAKE SURE YOU WEAR FOUR-INCH HEELS!
 
 
-BLANK
+[BLANK]
 VIVIENNE: Whitney, darling!  Thank you for hosting this.
 WHITNEY: My pleasure.
 VIVIENNE: We all needed a break from law school anxieties and worrying about Callahan’s internship.
@@ -1038,7 +1038,7 @@ CLEAR IT OFF AND FIND SOME ROOM FOR BOOKS INSTEAD.
 ELLE: Hey, what are you doing?
 
 
-BLANK 
+[BLANK] 
 EMMET: CAN YOU LIVE WITHOUT THIS? CAN YOU LIVE WITHOUT THAT?
 ...I DON’T KNOW WHAT THIS IS...
 ELLE: IT’S FOR HAIR!
@@ -1066,7 +1066,7 @@ TIS A GIFT TO BE FREE.
 MM MM MM MM MM MM
 MM MM MM MM MM MM MM
                    
-BLANK
+[BLANK]
 ELLE: Bye, Warner! Have a great Thanksgiving! Say hi to your Mom and Dad for me! And Grandma Bootsie!
 EMMET: I forget, is Grandma Bootsie giving up weekends and nights to help you study? Oh, wait, no, that’s me.
 Define Malum prohibitum.
@@ -1092,7 +1092,7 @@ ELLE: AARGH!!
 GREEK CHORUS GIRLS: GLO-O-O-RIA IN EXCELSIS DEO...
 
 
-BLANK  
+[BLANK]  
 ELLE: Bye Warner! Merry Christmas! Enjoy Vail!
 PAULETTE: Okay, focus, Elle, focus! The case of “Russell v. Sullivan” …
 ELLE: -- determined that Russell was legally the child’s father even though he was just a sperm donor.
@@ -1198,7 +1198,7 @@ WOODS                                    LITTLE MISS WOODS    LITTLE MISS WOODS
 COMMA ELLE!                         COMMA ELLE!              COMMA ELLE!
 
 
-BLANK 
+[BLANK] 
 ELLE: Paulette, are you ready?
 PAULETTE: I don’t know, Elle. Dewey scares the crap outta me.
 ELLE: And that’s okay. Channel that fear and tell yourself you are a strong, independent woman. You MUST be reunited with your dog.
@@ -1212,7 +1212,7 @@ DEWEY: It's your birthday, it's your birthday... Well, you can't see him, Jelly 
 Throwin’ you out!
 
 
-BLANK 
+[BLANK] 
 PAULETTE: Can you believe I lived with that for 10 years? That cheap-skate never even got me a ring!
 EMMET: Elle, they lived together for 10 years –
 ELLE: Of course! Emmet, you’re a genius!
@@ -1241,7 +1241,7 @@ CALLAHAN: We start Monday, 9:00 a.m. sharp. Make sure everyone dresses appropria
 ELLE: Emmet, that’s so great! I’m so proud of you.
 
 
-BLANK
+[BLANK]
 ENID: Yes! Score!
 VIVIENNE: Oh, Warner! We got Callahan’s internship!
 WARNER: What?
@@ -1321,7 +1321,7 @@ I’LL BE THERE ON MONDAY, NINE O’CLOCK,          I’LL BE THERE ON MONDAY, N
 THEN WE WILL SEE WHO WALKS THE WALK.        THEN WE WILL SEE WHO WALKS THE WALK.
 
 
-BLANK  (NOTE TO ABBY, I DON’T THINK YOU HAVE TO SHOW THE CHORUS LINES.  ELLE IS THE MAIN SINGER CHORUS JUST REPEATS. Same with the previous lines.  Greek chorus just repeats. I would delete. Plus there were very messy below)
+[BLANK]  (NOTE TO ABBY, I DON’T THINK YOU HAVE TO SHOW THE CHORUS LINES.  ELLE IS THE MAIN SINGER CHORUS JUST REPEATS. Same with the previous lines.  Greek chorus just repeats. I would delete. Plus there were very messy below)
 ELLE:                                                                     GREEK CHORUS:   
 NO, NO: I CAN’T WAIT!
 I WILL BE THERE AT EIGHT!
@@ -1341,7 +1341,7 @@ THAN BEFORE!                                                         AH AH AH AH
                                                                                     AH AH AH AH AH AH AH!
                                                                                   AH AH AH AH AH AH AH!
                                     BLACKOUT
-BLANK
+[BLANK]
 BROOKE: Hi, I’m Brooke Wyndham and welcome back to the Wyndham Workout Disc Two Intermediate
 Challenge! This is our daily commitment to becoming the best you can be!
 VIDEO PEOPLE: Yeah!
@@ -1479,7 +1479,7 @@ ENID: Oh, she’s tough.    Yo! Sister –
 BROOKE: Yo! Not related!
 
 
-BLANK 
+[BLANK] 
 BROOKE: I need a defense team who knows I’m innocent. Get out of here. All of you. Guard!
 ELLE: “WHO WHO IS THE GIRL WITH LOYAL FRIENDS AND TRUE?
 BROOKE: WHO WHO?
@@ -1518,7 +1518,7 @@ ELLE: Your secret’s safe with me.
 BROOKE: I can’t lose my fitness empire! I’d rather rot in jail! You gotta take care of me, ELLE.  You swore.
 
 
-BLANK 
+[BLANK] 
 EMMET: Elle, there you are.
 CALLAHAN: Where’s Brooke?
 ELLE: The guard took her back.
@@ -1537,7 +1537,7 @@ about it: Happy people just don’t kill!
 CALLAHAN:  is seething.
 
 
-BLANK 
+[BLANK] 
 CALLAHAN: Emmet, a word.        
 VIVIENNE: Elle, are you serious? If you don’t give up this alibi, we will ALL lose the case.
 ELLE: Then I guess we’re not very good lawyers.
@@ -1566,7 +1566,7 @@ EMMET: Butthead? Really?
 ELLE: Yes, really. C’mon, let’s get out of here.
 
 
-BLANK
+[BLANK]
 EMMET: Why do you always have to be right?
 ELLE: I don’t have to be… when I’m with you, I just am. Hey, if you want to impress Callahan: , I can help.
 EMMET: Okay. How?
@@ -1585,7 +1585,7 @@ EMMET: Of course.
 ELLE: Then don’t stop now.
 
 
-BLANK 
+[BLANK] 
 EMMET: What is this place?
 ELLE: It’s called a department store.
 EMMET: It’s…it’s beautiful.
@@ -1690,7 +1690,7 @@ EMMET: A MAN
 CHORUS: A MAN
 
 
-BLANK
+[BLANK]
 PAULETTE: There. Now you’re ready for your big trial. You sure you don’t want me to paint little 
 gavels on ‘em for ya?
 ELLE: It’s okay, Paulette. That might be a bit too much.
@@ -1724,7 +1724,7 @@ But it also has real world applications: the Bend and Snap is 99.99% effective o
 PAULETTE: Yeah, and I’ve got a great track record with those.
 
 
-BLANK 
+[BLANK] 
 SERENA: I see the problem here...and it’s not physical: it’s spiritual. Paulette just needs a little...spirit.
 MARGOT: And Serena knows about spirit- she’s a U.C.L.A. Cheer Team Leader.
 MARGOT/PILAR/SERENA: Go Bruins!/Alright!/Bruin Power! (etc.)
@@ -1774,7 +1774,7 @@ BEND...                                            BEND…
 AND SNAP!                                      AND SNAP!
 
 
-BLANK
+[BLANK]
 MARGOT/SERENA/PILAR
 I’M BETTIN’ RIGHT NOW YOU’RE SWEATIN’!
 SPRING THE TRAP!
@@ -1848,7 +1848,7 @@ KYLE: Hey, PAULETTE, did I leave my stylus…?
 ..AND SNAP!
 KYLE: OWW  
 PAULETTE: …Oh, crap. 
-BLANK
+[BLANK]
 TV REPORTER: In day three of the Brooke Wyndham murder trial, D.A. Joyce Riley has been grilling Nikos Argitakos, Miss Wyndham’s pool boy, all morning. The waters could get dicey, let’s hope the defense packed their floaties…Yolanda.
 DA JOYCE RILEY: ...which is why you should clarify for the court exactly what your duties were as pool boy.
 NIKOS: Cleaning the pool.
@@ -1988,7 +1988,7 @@ NIKOS: FINE OKAY I’M GAY!
 ALL: HOORAY!
 
 
-BLANK 
+[BLANK] 
 CALLAHAN: For decisively turning the case around and for nailing the pool boy.
 WARNER: Emmet nailed the pool boy.
 EMMET: Well... I have to share this victory with Elle.
@@ -2016,7 +2016,7 @@ WARNER: Well, hel-lo Marilyln! Looks like you’ll make partner now. You’ve re
 VIVIENNE: Warner: shut up!
 
 
-Blank
+[BLANK]
 ELLE: TAKE BACK THE BOOKS AND PACK UP THE CLOTHES.
 CLEAR OUT THE ROOM AND DROP OFF THE KEY.
 LEAVE WITH WHAT’S LEFT OF MY DIGNITY.
@@ -2081,7 +2081,7 @@ JUST LET ME BE
 LEGALLY BLONDE.
 
 
-BLANK 
+[BLANK] 
 PAULETTE: Kyle, I want you to know: I thought the time we shared together in the ambulance and at the ER was
 something special.
 But it had nothin’ on our dinner out. Who knew the Olive Garden had such fine wines?
